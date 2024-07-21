@@ -1,0 +1,37 @@
+In KMIT there are two departments i.e CSE & AIML with three sections each.
+Any student who belongs to department other than CSE&AIML should not be allowed in KMIT.
+1.Rupa studies in 4th year in CSE department with CGPA of 7.6. She needs to apply for post graduation. 
+In current semester her score was {98,98,98} , Can you check whether she can make it.
+2.Priya’s age is 19. She studies in civil department and right now she is in 3rd year. She wants to know CGPA
+
+
+
+Create a university management system where you have scholarship students and normal students , every student should be able to calculate his CGPA and can apply for PostGraduation only if he is in 4th year and have more than 8.0 CGPA. 
+A student is eligible for scholarship only if his CGPA is more than 9.0 . The student should be able to pay the fees based on his academic year , the fees would be half for scholarship students. 
+Election is around the corner we will make sure all students who have paid fees and have indian nationailty are allowed to vote. 
+Create a system where you can create 3 scholarship students 
+1. Pragnya - Indian - 3rd year , 8.9 current CGPA 
+2. Sameul - African - 2nd year , 7.2 current CGPA 
+3. Tikku - Indian - 4th year , 9.2 current CGPA
+ and 3 students of the following details 
+1. pankaj  - indonesian , 4 , 8.8
+2. jim - Canadian , 3rd , 8.9 
+3. Seema - Indian , 4 , 9.9
+
+Check if these students can Vote or not and in case they cant so ask them to pay their due fees and make them vote
+
+
+As such in a Bank there is no Account , it is either a savings account or a current account, create a bank management system where a customer can open a bank account based on his need current or savings. 
+Current Account:
+A current account is primarily used by businesses, companies, and individuals for managing day-to-day financial transactions.
+It typically offers features such as unlimited transactions, overdraft facilities, checkbook facilities, and online banking services.
+Current accounts usually do not pay any interest on the deposited amount.
+These accounts may require a higher minimum balance to be maintained compared to savings accounts.
+They are suited for frequent transactions, payments, and withdrawals.
+Savings Account:
+
+A savings account is designed for individuals to save money and earn interest on their deposits.
+It usually has limitations on the number of transactions allowed per month, but it provides interest on the deposited amount.
+Savings accounts often come with features like ATM/debit cards, online banking, and mobile banking facilities.
+They generally have a lower minimum balance requirement compared to current accounts.
+Savings accounts are suitable for individuals who want to save money for short-term or long-term goals while earning interest on their deposits.
