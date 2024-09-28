@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.stream.*;
 import java.lang.*;
 
-class xerexes
+class Streams
 {
     public void main()
         {    
