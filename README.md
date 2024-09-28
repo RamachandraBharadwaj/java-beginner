@@ -1,1 +1,1 @@
-some java codes which explore the basic concepts , API and other functionality 
+java foundation classes questions and my solutions, alongside few other basics for reference 
