@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=strogrammatic
+comment0.text=\ strobogrammatic\ numbers\ \:\r\n\ \r\n\ n\=1\ \:\ 0,\ 1,8\r\n\ n\=2\ \:\ 11,69,96,88\r\n\ n\=3\ \:\ 101,808,609,906,111,619,818,916,181,689,986,868\r\n\ n\=4\ \:\ 1001,8008,6009,9006,1111,6119,8118,9116\r\n\ \r\n\ Strobo\ from\ 1\ to\ n\ size\r\n
+comment1.params=x
+comment1.target=java.util.ArrayList\ recu(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

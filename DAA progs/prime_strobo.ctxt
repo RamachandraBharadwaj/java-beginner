@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=prime_strobo
+comment1.params=n
+comment1.target=boolean\ isPrime(int)
+comment2.params=numbs
+comment2.target=java.util.ArrayList\ prime_strobogram(java.util.List)
+comment3.params=n
+comment3.target=java.util.List\ findStrobogrammatic(int)
+comment4.params=n\ finalLength
+comment4.target=java.util.List\ helper(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
